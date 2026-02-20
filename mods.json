@@ -2,32 +2,32 @@
   "mods": [
     {
       "filename": "AutoRegLib-1.6-49.jar",
-      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/mods/AutoRegLib-1.6-49.jar",
+      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/AutoRegLib-1.6-49.jar",
       "size": 57279
     },
     {
       "filename": "BiomesOPlenty-1.16.5-13.1.0.488-universal.jar",
-      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/mods/BiomesOPlenty-1.16.5-13.1.0.488-universal.jar",
+      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/BiomesOPlenty-1.16.5-13.1.0.488-universal.jar",
       "size": 3651046
     },
     {
       "filename": "mcw-roofs-2.3.2-mc1.16.5forge.jar",
-      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/mods/mcw-roofs-2.3.2-mc1.16.5forge.jar",
+      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/mcw-roofs-2.3.2-mc1.16.5forge.jar",
       "size": 1702807
     },
     {
       "filename": "noria-menu-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/mods/noria-menu-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/noria-menu-1.0.0.jar",
       "size": 3936
     },
     {
       "filename": "OptiFine-OptiFine-1.16.5_HD_U_G8_pre2.jar",
-      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/mods/OptiFine-OptiFine-1.16.5_HD_U_G8_pre2.jar",
+      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/OptiFine-OptiFine-1.16.5_HD_U_G8_pre2.jar",
       "size": 5400622
     },
     {
       "filename": "Quark-r2.4-322.jar",
-      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/mods/Quark-r2.4-322.jar",
+      "url": "https://raw.githubusercontent.com/OriginalShadow/NoriaLifeMods/main/Quark-r2.4-322.jar",
       "size": 8796901
     }
   ]
